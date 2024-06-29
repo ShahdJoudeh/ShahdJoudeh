@@ -1,7 +1,7 @@
 Welcome to my github account👋
 # I'm Shahd Joudeh 
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently studing Computer Science at Applied Science University
+- 🌱 I’m currently studying Computer Science at Applied Science University
 - 📫 How to reach me [shahdjoudeh/Gmail](mailto:03shahdjoudeh@gmail.com)
 - ⚡ Fun fact: I am always hungry😄
 # Contact Me:
