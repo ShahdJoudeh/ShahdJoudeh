@@ -6,7 +6,7 @@ Welcome to my github account👋
 - ⚡ Fun fact: I am always hungry😄
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahd-joudeh-551509247?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsgrfoo2xtdww%2flwtd%2fqe9q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahd-joudeh-551509247?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsgrfoo2xtdww%2flwtd%2fqe9q%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahd-joudeh-551509247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahd-joudeh-551509247?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsgrfoo2xtdww%2flwtd%2fqe9q%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/shahd joudeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahd joudeh" height="30" width="40" /></a>
 <a href="https://instagram.com/shahd_joudeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahd_joudeh" height="30" width="40" /></a>
 </p>
