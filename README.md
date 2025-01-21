@@ -3,7 +3,7 @@ Welcome to my github account👋
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently studying Computer Science at Applied Science University
 - 📫 How to reach me [shahdjoudeh/Gmail](mailto:03shahdjoudeh@gmail.com)
-- ⚡ Fun fact: I am always hungry😄
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shahd-joudeh-551509247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahd-joudeh-551509247?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsgrfoo2xtdww%2flwtd%2fqe9q%3d%3d" height="30" width="40" /></a>
